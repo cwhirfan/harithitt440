@@ -1,9 +1,9 @@
 # testing
 # harithitt440
-echo # template >> README.md
-git init
-git add README.md
-git commit -m first commit
-git branch -M main
-git remote add origin https://github.com/cwhirfan/template.git
-git push -u origin main
+# echo # template >> README.md
+# git init
+# git add README.md
+# git commit -m first commit
+# git branch -M main
+# git remote add origin https://github.com/cwhirfan/template.git
+# git push -u origin main
